@@ -1,3 +1,33 @@
 .first-container {
   margin: 100px;
 }
+
+.title-authors {
+  font-size: 30px; 
+  font-family: "Helvetica Neue"; 
+  font-weight: 200;
+}
+
+.title-sub-heading {
+  font-size: 21px; 
+  font-family: "Helvetica Neue"; 
+  font-weight: 200;
+}
+
+.sub-heading {
+  font-size: 30px; 
+  font-family: "Helvetica Neue"; 
+  font-weight: bold;
+}
+
+.regular-text-first {
+  font-size: 18px; 
+  font-family: "Helvetica Neue"; 
+  font-weight: 200;
+}
+.regular-text {
+  font-size: 18px; 
+  font-family: "Helvetica Neue"; 
+  font-weight: 200;
+  margin-top: 10px;
+}
